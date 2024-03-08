@@ -1,0 +1,19 @@
+Package: dolphinqt5
+Priority: extra
+Section: checkinstall
+Maintainer: baku
+Architecture: amd64
+Version: 23.08.4
+Provides: dolphinqt5
+Description: use the qt5 Dolphin file manager alongside kde6
+ Dolphin is the default file manager in the Plasma, intended
+ to be both powerful and easy to use.
+ .
+ Features include:
+   Customisable sidebars
+   "Breadcrumb" navigation
+   View properties remembered for each folder
+   Split views
+   Network transparency
+   Undo/redo functionality
+   Ratings, comments, and tags
